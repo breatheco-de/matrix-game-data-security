@@ -4,13 +4,21 @@
 
 Develop the following points:
 
-1. What should 4Geeks Academy do to prevent the exposure of their users' data?
+1. What should 4Geeks Academy do to prevent their users' data exposure?
 2. What is the worst that could happen, and why is it so important to maintain data privacy?
 3. Who should manage the data of students, alumni, and partners?
 4. What security treatment should the data receive?
 5. Develop a data recovery plan and a plan to prevent data breaches and protect 4Geeks Academy.
 
 ## How to Play the Game
+
+### Instructions for the teacher:
+
+We recommend using [this matrix template](https://docs.google.com/spreadsheets/d/1z-73T1P66iOWuVMw_D_u90oJEp8XcHUxr25b10W_6dI/edit?usp=sharing) for following the game, create 2 groups of students: One will represent `the innovator` and the other one the devils advocate. The teacher will be `the judge`.
+
+### Instructions for the students
+
+Choose to be in one of the groups: `innovator` or `devil's advocate` and wait for your turn.
 
 Players need no advance preparation. The game requires only that you bring your knowledge, experience, and perspectives to think strategically about critical infrastructure resilience and preparedness.
 
@@ -20,7 +28,7 @@ Before the game, consider a few potential initiatives, such as policies, program
 
 ![](https://raw.githubusercontent.com/breatheco-de/matrix-game-data-security/main/.learn/assets/debate-instructions.png)
 
-The game consists of three rounds, each presenting you with a scenario that could occur within the next three to seven years. During each round:
+The game consists of three rounds; during each round, the innovators will propose solutions to security breaches, vulnerabilities, and problems.
 
 - **The Innovator** first proposes initiatives that could influence critical infrastructure security and resilience in response to a specified disruptive scenario.
 - **The Devil’s Advocate** then provides counterarguments as to why these initiatives may fail, followed by the Innovator’s rebuttal.
