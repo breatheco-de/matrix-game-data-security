@@ -1,23 +1,20 @@
-## Escenario de seguridad
+## Security Scenario (Matrix Game)
 
-4Geeks Academy es una Start-Up de educación en desarrollo de software. 
-Tiene una cartera de más de 7,000 de estudiantes activos a nivel global, 5,000 de egresados y una cartera actual de 400 empresas asociadas que contratan a los egresados de sus formaciones. 
-Alejandro Sánchez, CTO de 4Geeks Academy te ha contactado para que lo asesores con respecto a la seguridad de sus usuarios y evitar una fuga de información. 
+4Geeks Academy is a start-up focused on software development education. It has a portfolio of over 7,000 active students globally, 5,000 alumni, and a current portfolio of 400 partner companies that hire graduates from their programs. Alejandro Sánchez, CTO of 4Geeks Academy, has contacted you for advice regarding the security of their users and to prevent data breaches.
 
-Desarrolla los siguientes puntos:
+Develop the following points:
 
-1. ¿Qué debe hacer 4Geeks Academy para evitar la exposición de los datos de sus usuarios?
-2. ¿Qué es lo peor que puede pasar y por qué es tan importante mantener la privacidad de los datos?
-3. ¿Quién o quiénes deberían gestionar los datos de los estudiantes, egresados y socios?
-4. ¿Qué tratamiento de seguridad deberían recibir los datos?
-5. Realiza un plan de recuperación de información y un plan para evitar la fuga de información y proteger a 4Geeks Academy
+1. What should 4Geeks Academy do to prevent the exposure of their users' data?
+2. What is the worst that could happen, and why is it so important to maintain data privacy?
+3. Who should manage the data of students, alumni, and partners?
+4. What security treatment should the data receive?
+5. Develop a data recovery plan and a plan to prevent data breaches and protect 4Geeks Academy.
 
-## How to play the game
+## How to Play the Game
 
-Players need no advance preparation. The game requires only that you bring your knowledge, experience, and perspectives to think strategically about critical infrastructure
-resilience and preparedness. 
+Players need no advance preparation. The game requires only that you bring your knowledge, experience, and perspectives to think strategically about critical infrastructure resilience and preparedness.
 
-Before the game, consider considering a few potential initiatives, such as policies, programs, investments, trainings, partnerships, research and development, or other actions addressing resilience and security implications (threats and opportunities). Please consider what initiatives, if successfully implemented today, will help prepare critical infrastructure stakeholders for future challenges.
+Before the game, consider a few potential initiatives, such as policies, programs, investments, trainings, partnerships, research and development, or other actions addressing resilience and security implications (threats and opportunities). Consider what initiatives, if successfully implemented today, will help prepare critical infrastructure stakeholders for future challenges.
 
 ## Matrix Game Rules
 
@@ -25,16 +22,15 @@ Before the game, consider considering a few potential initiatives, such as polic
 
 The game consists of three rounds, each presenting you with a scenario that could occur within the next three to seven years. During each round:
 
-- **the Innovator** (see box at right) first proposes initiatives that could influence critical infrastructure security and resilience in response to a specified disruptive scenario.
+- **The Innovator** first proposes initiatives that could influence critical infrastructure security and resilience in response to a specified disruptive scenario.
 - **The Devil’s Advocate** then provides counterarguments as to why these initiatives may fail, followed by the Innovator’s rebuttal.
-- **The Judge** considers the arguments from both players and assigns each initiative a high, medium, or low probability of success. The assigned probability affects the die roll number
-needed for the initiative to pass. 
+- **The Judge** considers the arguments from both players and assigns each initiative a high, medium, or low probability of success. The assigned probability affects the die roll number needed for the initiative to pass.
 
-Between the Innovator and the Devil’s Advocate, the player who passes (or prevents) the most initiatives is the round’s “winner”. As a reward.
+Between the Innovator and the Devil’s Advocate, the player who passes (or prevents) the most initiatives is the round’s “winner.” As a reward.
 
-## How can you play the 1st round? Example:
+## How Can You Play the 1st Round? Example:
 
-### 💡 Innovador:
+### 💡 Innovator:
 
 **Proposal 1: Implementation of Multi-Factor Authentication (MFA)**
 
@@ -64,4 +60,3 @@ The Innovator can respond by acknowledging the challenges mentioned and proposin
 1. **Education and Communication:** Launch an educational campaign to explain the benefits of MFA to users and employees, reducing resistance and increasing adoption.
 2. **Gradual Implementation:** Introduce MFA gradually, starting with employees and the most sensitive users, and then extending it to all users.
 3. **Complementary Security Measures:** Ensure that MFA is part of a comprehensive security approach that includes regular software updates, security audits, and ongoing cybersecurity training.
-
