@@ -1,0 +1,23 @@
+{
+	"slug" : "data-security-matrix-game",
+	"title" : {
+		"en":"Learn data security by playing a Matrix Game",
+		"es":"Aprende seguridad de datos jugango un juego de matrices"
+	},
+	"preview": "https://raw.githubusercontent.com/breatheco-de/matrix-game-data-security/main/.learn/assets/preview-datasecurity.png",
+	"technologies": ["cybersecurity", "network", "ciberseguridad", "network-security"],
+	"difficulty": "beginner",
+	"duration" : 1,
+  "projectType": "project",
+	"description": {
+		"en": "An education start-up, seeks advice from CTO on securing user data to prevent breaches. Learn about preventive measures, potential risks, data management roles, security treatments, and recovery plans.",
+		"es": "Una startup de educación busca el asesoramiento del CTO para asegurar los datos de los usuarios y prevenir brechas. Conozca las medidas preventivas, los riesgos potenciales, los roles en la gestión de datos, los tratamientos de seguridad y los planes de recuperación."
+	},
+	"delivery": {
+		"instructions": {
+			"us": "Pase the URL of the Google Sheets template with the different strategies discussed during the game",
+			"es": "Agrega el URL al document de Google Sheets con las diferentes strategies discutidas"
+		},
+		"formats": ["url"]
+	}
+}
