@@ -14,7 +14,7 @@ Develop the following points:
 
 ### Instructions for the teacher:
 
-We recommend using [this matrix template](https://docs.google.com/spreadsheets/d/1z-73T1P66iOWuVMw_D_u90oJEp8XcHUxr25b10W_6dI/edit?usp=sharing) for following the game, create 2 groups of students: One will represent `the innovator` and the other one the devils advocate. The teacher will be `the judge`.
+We recommend using [this matrix template](https://docs.google.com/spreadsheets/d/1z-73T1P66iOWuVMw_D_u90oJEp8XcHUxr25b10W_6dI/edit?usp=sharing) for following the game, create 2 groups of students: One will represent `the innovator` and the other one the `devils advocate`. The teacher will be `the judge`.
 
 ### Instructions for the students
 
