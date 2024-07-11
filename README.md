@@ -14,11 +14,11 @@ Develop the following points:
 
 ### Instructions for the teacher:
 
-We recommend using [this matrix template](https://docs.google.com/spreadsheets/d/1z-73T1P66iOWuVMw_D_u90oJEp8XcHUxr25b10W_6dI/edit?usp=sharing) for following the game, create 2 groups of students: One will represent `the innovator` and the other one the `devils advocate`. The teacher will be `the judge`.
+We recommend using [this matrix template](https://docs.google.com/spreadsheets/d/1z-73T1P66iOWuVMw_D_u90oJEp8XcHUxr25b10W_6dI/edit?usp=sharing) for following the game, create 2 groups of students: One will represent `👷🏽 the innovator` and the other one the `👹 devils advocate`. The teacher will be `the judge`.
 
 ### Instructions for the students
 
-Choose to be in one of the groups: `innovator` or `devil's advocate` and wait for your turn.
+Choose to be in one of the groups: `👷🏽 innovator` or `👹 devil's advocate` and wait for your turn.
 
 Players need no advance preparation. The game requires only that you bring your knowledge, experience, and perspectives to think strategically about critical infrastructure resilience and preparedness.
 
@@ -38,7 +38,7 @@ Between the Innovator and the Devil’s Advocate, the player who passes (or prev
 
 ## How Can You Play the 1st Round? Example:
 
-### 💡 Innovator:
+### 👷🏽 Innovator:
 
 **Proposal 1: Implementation of Multi-Factor Authentication (MFA)**
 
@@ -50,7 +50,7 @@ The Innovator proposes implementing multi-factor authentication (MFA) for all us
 2. **Protection Against Phishing:** Adds an additional layer of defense against phishing attacks.
 3. **Regulatory Compliance:** Helps comply with security and data protection regulations.
 
-### Counterargument by the 👿 Devil's Advocate:
+### Counterargument by the 👹 Devil's Advocate:
 
 **Counterargument:**
 The Devil's Advocate points out that implementing MFA may face several challenges and may not be sufficient on its own to ensure complete security.
@@ -60,7 +60,7 @@ The Devil's Advocate points out that implementing MFA may face several challenge
 2. **Additional Costs:** Implementing and maintaining MFA can involve significant additional costs in terms of technology and customer support.
 3. **Not a Complete Solution:** While MFA increases security, it does not address other potential vulnerabilities such as outdated software, incorrect system configurations, and lack of cybersecurity education.
 
-**Response Proposed by The 💡 Innovator:**
+**Response Proposed by The 👷🏽 Innovator:**
 
 **Response:**
 The Innovator can respond by acknowledging the challenges mentioned and proposing additional solutions to address them:
