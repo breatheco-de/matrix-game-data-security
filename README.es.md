@@ -14,11 +14,11 @@ Desarrolla los siguientes puntos:
 
 ### Instrucciones para el profesor:
 
-Recomendamos utilizar [esta plantilla de matriz](https://docs.google.com/spreadsheets/d/1z-73T1P66iOWuVMw_D_u90oJEp8XcHUxr25b10W_6dI/edit?usp=sharing) para seguir el juego. Crea 2 grupos de estudiantes: uno representará `el innovador` y el otro `el abogado del diablo`. El profesor será `el juez`.
+Recomendamos utilizar [esta plantilla de matriz](https://docs.google.com/spreadsheets/d/1z-73T1P66iOWuVMw_D_u90oJEp8XcHUxr25b10W_6dI/edit?usp=sharing) para seguir el juego. Crea 2 grupos de estudiantes: uno representará `👷🏽 el innovador` y el otro `el 👹 abogado del diablo`. El profesor será `el juez`.
 
 ### Instrucciones para los estudiantes:
 
-Elijan estar en uno de los grupos: `innovador` o `abogado del diablo` y esperen su turno.
+Elijan estar en uno de los grupos: `👷🏽 innovador` o `👹 abogado del diablo` y esperen su turno.
 
 Los jugadores no necesitan preparación previa. El juego solo requiere que traigan su conocimiento, experiencia y perspectivas para pensar estratégicamente sobre la resiliencia y preparación de la infraestructura crítica.
 
@@ -30,15 +30,15 @@ Antes del juego, consideren algunas iniciativas potenciales, como políticas, pr
 
 El juego consta de tres rondas; durante cada ronda, los innovadores propondrán soluciones a las brechas de seguridad, vulnerabilidades y problemas.
 
-- **El Innovador** primero propone iniciativas que podrían influir en la seguridad y resiliencia de la infraestructura crítica en respuesta a un escenario disruptivo específico.
-- **El Abogado del Diablo** luego proporciona contraargumentos sobre por qué estas iniciativas pueden fallar, seguidos por la refutación del Innovador.
+- **👷🏽 El Innovador** primero propone iniciativas que podrían influir en la seguridad y resiliencia de la infraestructura crítica en respuesta a un escenario disruptivo específico.
+- **👹 El Abogado del Diablo** luego proporciona contraargumentos sobre por qué estas iniciativas pueden fallar, seguidos por la refutación del Innovador.
 - **El Juez** considera los argumentos de ambos jugadores y asigna a cada iniciativa una alta, media o baja probabilidad de éxito. La probabilidad asignada afecta al número del dado necesario para que la iniciativa pase.
 
-Entre el Innovador y el Abogado del Diablo, el jugador que pase (o impida) más iniciativas es el “ganador” de la ronda. Como recompensa.
+Entre el 👷🏽 Innovador y el 👹 Abogado del Diablo, el jugador que pase (o impida) más iniciativas es el “ganador” de la ronda. Como recompensa.
 
 ## ¿Cómo Jugar la 1ª Ronda? Ejemplo:
 
-### 💡 Innovador:
+### 👷🏽 Innovador:
 
 **Propuesta 1: Implementación de Autenticación Multifactor (MFA)**
 
@@ -50,7 +50,7 @@ El Innovador propone implementar autenticación multifactor (MFA) para todas las
 2. **Protección Contra Phishing:** Añade una capa adicional de defensa contra ataques de phishing.
 3. **Cumplimiento Normativo:** Ayuda a cumplir con las regulaciones de seguridad y protección de datos.
 
-### Contraargumento del 👿 Abogado del Diablo:
+### Contraargumento del 👹 Abogado del Diablo:
 
 **Contraargumento:**
 El Abogado del Diablo señala que implementar MFA puede enfrentar varios desafíos y puede no ser suficiente por sí solo para garantizar una seguridad completa.
@@ -60,7 +60,7 @@ El Abogado del Diablo señala que implementar MFA puede enfrentar varios desafí
 2. **Costos Adicionales:** Implementar y mantener MFA puede implicar costos adicionales significativos en términos de tecnología y soporte al cliente.
 3. **No es una Solución Completa:** Aunque la MFA aumenta la seguridad, no aborda otras vulnerabilidades potenciales como software desactualizado, configuraciones incorrectas del sistema y falta de educación en ciberseguridad.
 
-**Respuesta Propuesta por el 💡 Innovador:**
+**Respuesta Propuesta por el 👷🏽 Innovador:**
 
 **Respuesta:**
 El Innovador puede responder reconociendo los desafíos mencionados y proponiendo soluciones adicionales para abordarlos:
