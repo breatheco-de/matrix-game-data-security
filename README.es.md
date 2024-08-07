@@ -26,7 +26,7 @@ Antes del juego, consideren algunas iniciativas potenciales, como políticas, pr
 
 ## Reglas del Juego de Matriz
 
-![](https://raw.githubusercontent.com/breatheco-de/matrix-game-data-security/main/.learn/assets/debate-instructions.png)
+![](https://raw.githubusercontent.com/breatheco-de/matrix-game-data-security/main/.learn/assets/debate-instructions.es.png)
 
 El juego consta de tres rondas; durante cada ronda, los innovadores propondrán soluciones a las brechas de seguridad, vulnerabilidades y problemas.
 
