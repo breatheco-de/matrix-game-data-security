@@ -18,6 +18,7 @@
 			"us": "Pase the URL of the Google Sheets template with the different strategies discussed during the game",
 			"es": "Agrega el URL al document de Google Sheets con las diferentes strategies discutidas"
 		},
-		"formats": ["url"]
+		"formats": ["url"],
+		"regex": "https://docs.google.com/"
 	}
 }
