@@ -8,7 +8,7 @@
 	"technologies": ["cybersecurity", "network", "ciberseguridad", "network-security"],
 	"difficulty": "beginner",
 	"duration" : 1,
-  "projectType": "project",
+  	"projectType": "project",
 	"description": {
 		"en": "An education start-up, seeks advice from CTO on securing user data to prevent breaches. Learn about preventive measures, potential risks, data management roles, security treatments, and recovery plans.",
 		"es": "Una startup de educación busca el asesoramiento del CTO para asegurar los datos de los usuarios y prevenir brechas. Conozca las medidas preventivas, los riesgos potenciales, los roles en la gestión de datos, los tratamientos de seguridad y los planes de recuperación."
